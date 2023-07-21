@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4890306387483550c521b886dabb3578" label="Hospitals" max_length="40" name="x_snc_hospitalmana_hospitals" type="collection"/>
+</database>
